@@ -1,18 +1,41 @@
-# TheNewFacebook
+# Facebook clone project with Ruby on Rails
+
+> This is part of the Final Project in The Odin Project’s Ruby on Rails Curriculum. Find it at https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project and requirement from Microverse Program.
 
 This project is about building a facebook replica with just the core functionality: basic user functionality plus posting, commenting and adding friends.
+## Live link
+* [Here](https://afternoon-wave-75260.herokuapp.com/)
+## Built With ✨
 
-# Live version
+- Ruby on Rails
+- Node.js 10.x
+- yarn 1.x
 
-[Here](https://afternoon-wave-75260.herokuapp.com/)
+To get a local copy up and running follow these simple example steps.
 
-## Resources
+### Prerequisites
+* Node.js installed
+* Ruby on rails installed, see [https://rubyonrails.org/](https://rubyonrails.org/) for more information on how to install it.
 
-[Microverse](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/49736080/)(Need Microverse access privilege to access this link)
+* System dependencies
+Windows/ Mac
 
-[Odin ](https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project)
 
-## Collaborators
+### Install
+Clone project and run
+`npm install`
+`bundle install`
+`bundle update`
 
-[Ivan Derlich](https://github.com/IvanDerlich/) <br>
-[Gabriela Cruz](https://github.com/ViriCruz/)
+## How to contribute and partipate
+Fork this repo and submit a PR for review and potential merge to main branch
+
+## Authors
+
+👨‍💻 **Gabriela Cruz**
+
+- Github: [@viricruz](https://github.com/viricruz)
+
+👨‍💻 **Ivan Derlich**
+
+- Github: [@IvanDerlich](https://github.com/IvanDerlich)
