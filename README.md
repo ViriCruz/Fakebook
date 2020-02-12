@@ -3,6 +3,7 @@
 > This is part of the Final Project in The Odin Project’s Ruby on Rails Curriculum. Find it at https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project and requirement from Microverse Program.
 
 This project is about building a facebook replica with just the core functionality: basic user functionality plus posting, commenting and adding friends.
+![Example screenshot](https://i.postimg.cc/bv2xb5Gn/Capture.png)
 ## Live link
 * [Here](https://afternoon-wave-75260.herokuapp.com/)
 ## Built With ✨
