@@ -4,17 +4,20 @@
 
 This project is a facebook replica with just the core functionality: basic user functionality plus posting, commenting and adding friends.
 ![Example screenshot](https://i.postimg.cc/bv2xb5Gn/Capture.png)
+
+
 ## Live link
 * [Demo](https://boiling-fjord-34486.herokuapp.com/)
+
+
 ## Built With ✨
 
 - Ruby on Rails
 - Node.js 10.x
 - yarn 1.x
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Prerequisites
 * Node.js installed
 * Ruby on rails installed, see [https://rubyonrails.org/](https://rubyonrails.org/) for more information on how to install it.
 
@@ -22,11 +25,19 @@ To get a local copy up and running follow these simple example steps.
 Windows/ Mac
 
 
-### Install
+## Installing
 Clone project and run
+
 `npm install`
+
 `bundle install`
+
 `bundle update`
+
+## Usage
+
+## Running the tests
+`rspec spec --format nested`
 
 ## How to contribute and partipate
 Fork this repo and submit a PR for review and potential merge to main branch
@@ -36,6 +47,10 @@ Fork this repo and submit a PR for review and potential merge to main branch
 👨‍💻 **Gabriela Cruz**
 
 - Github: [@viricruz](https://github.com/viricruz)
+
+- email me at viridiana.cruz.olivera@gmail.com
+
+- Linkedin [@viricruz](https://www.linkedin.com/in/viricruz/)
 
 👨‍💻 **Ivan Derlich**
 
