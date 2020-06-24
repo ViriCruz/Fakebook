@@ -2,7 +2,7 @@
 
 > This is part of the Final Project in The Odin Project’s Ruby on Rails Curriculum. Find it at https://www.theodinproject.com/courses/ruby-on-rails/lessons/final-project and requirement from Microverse Program.
 
-This project is a facebook replica with just the core functionality: basic user functionality plus posting, commenting and adding friends.
+This project is a Facebook replica with just the core functionality: basic user functionality plus posting, commenting and adding friends.
 ![Example screenshot](https://i.postimg.cc/bv2xb5Gn/Capture.png)
 
 
@@ -26,7 +26,7 @@ Windows/ Mac
 
 
 ## Installing
-Clone project and run
+Clone project and run:
 
 `npm install`
 
@@ -34,13 +34,11 @@ Clone project and run
 
 `bundle update`
 
-## Usage
-
 ## Running the tests
 `rspec spec --format nested`
 
-## How to contribute and partipate
-Fork this repo and submit a PR for review and potential merge to main branch
+## How to contribute and participate
+Fork this repo and submit a PR for review and potential merge to main branch.
 
 ## Authors
 
@@ -50,7 +48,7 @@ Fork this repo and submit a PR for review and potential merge to main branch
 
 - email me at viridiana.cruz.olivera@gmail.com
 
-- Linkedin [@viricruz](https://www.linkedin.com/in/viricruz/)
+- LinkedIn [@viricruz](https://www.linkedin.com/in/viricruz/)
 
 👨‍💻 **Ivan Derlich**
 
